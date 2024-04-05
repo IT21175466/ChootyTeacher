@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703538800749",
+    "project_id": "chooty-teacher",
+    "storage_bucket": "chooty-teacher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703538800749:android:8adbe3578bae6b4b0cb764",
+        "android_client_info": {
+          "package_name": "com.chootyteacherflutter.chootyteacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOxYgsuM2FhcMJKOXeTWrMVroSH14zbzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
